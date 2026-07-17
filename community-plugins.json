@@ -40234,5 +40234,12 @@
     "author": "Aoba Suzuki",
     "description": "Highlights files with unfinished tasks and provides a synchronized vault-wide task summary. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "7jo-yamato/unfinished-todo-highlighter"
+  },
+    {
+    "id": "obsidian-fireflies-sync",
+    "name": "Fireflies.ai Sync",
+    "author": "Marcos Augusto",
+    "description": "Download transcripts from Fireflies.ai into your Obsidian vault.",
+    "repo": "maugustolo/obsidian-fireflies-sync"
   }
 ]
